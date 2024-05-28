@@ -34,7 +34,7 @@
     "class-validator": "^0.13.1",
     "compression": "^1.7.4",
     "nest-router": "^1.0.9",
-    "node-mailjet": "^3.3.4",
+    "node-mailjet": "^4.0.0",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
